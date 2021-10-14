@@ -1,5 +1,5 @@
 # MorseinoGUI
-A Morse Code Codifier via a buzzer and a led using an Arduino, and a GUI created using the Tkinter Python library. 
+A Morse Code Codifier via a buzzer and a led using an Arduino (.ino), and a GUI created using the Tkinter Python (.py) library. 
 Here are the files concerning the code for the Arduino, the code for the GUI and the data sending over to the Arduino and consequently to the built electronics. 
 The Manual also shows how to build necessary electronics, the diagram and the PCB schematics.
 
